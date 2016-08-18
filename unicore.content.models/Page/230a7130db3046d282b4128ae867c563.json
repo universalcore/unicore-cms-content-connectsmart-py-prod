@@ -3,15 +3,15 @@
   "description": "Article Does Not Exist In Portuguese", 
   "language": "eng_GB", 
   "title": "Page Does Not Exist In Portuguese", 
-  "primary_category": null, 
+  "primary_category": "f46e27d149f44de599857ded1cd60958", 
   "created_at": "2016-08-18T10:59:24+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-08-18T11:00:55.725620+00:00", 
+  "modified_at": "2016-08-18T11:03:57.766524+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
